@@ -6,7 +6,6 @@ A fully responsive shopping website built using **HTML, CSS, and JavaScript**. T
 ✅ Modern and Responsive Design  
 ✅ Smooth Animations  
 ✅ Optimized Images for Faster Loading  
-✅ User-Friendly Layout with Categories  
 
 ## 🛠️ Technologies Used  
 - **HTML5**  
